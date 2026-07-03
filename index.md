@@ -1,3 +1,5 @@
 # Mamoru Yakuwa's Website
 
-## Profile
+## Main page
+
+[Home](Pages/index.md)
