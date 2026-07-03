@@ -1,1 +1,12 @@
 theme: jekyll-theme-minimal
+
+# Navigation menu
+navigation:
+  - title: Home
+    url: /
+  - title: News
+    url: /#news
+  - title: Research
+    url: /#research
+  - title: Contact
+    url: /#contact
