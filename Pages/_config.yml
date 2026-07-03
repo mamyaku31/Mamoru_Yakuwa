@@ -1,0 +1,12 @@
+theme: jekyll-theme-minimal
+title: Mamoru Yakuwa
+
+navigation:
+- title: Home
+  url: https://mamyaku31.github.io/Mamoru_Yakuwa/
+- title: Research
+  url: https://mamyaku31.github.io/Mamoru_Yakuwa/Pages/Research.md/
+- title: Materials
+  url: Pages/Materials.md
+- title: Contact
+  url: Pages/Contact.md
